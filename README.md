@@ -22,7 +22,9 @@
     The game is developed entirely in Python, utilizing fundamental concepts. Players make choices and navigate through the game by responding to prompts and challenges presented in the console.
   </p>
 
-
+<p>
+  I also include some explanatory slides. You can download the slides from <strong><a href="https://github.com/TonioDominguez/Dungeons_and_Pythons/blob/main/slides/Presentaci%C3%B3n%20Dungeons%20%26%20Pythons.pdf">here</a></strong>.
+</p>
 
 ---
 
